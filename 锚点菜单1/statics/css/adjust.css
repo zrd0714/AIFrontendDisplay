@@ -1,0 +1,21 @@
+body {
+	font-family: "微软雅黑";
+	background: #FAFAFA;
+	font-size: 14px;
+}
+
+ol, ul {
+    padding-left: 0px;
+}
+
+*+address, *+blockquote, *+dl, *+fieldset, *+figure, *+hr, *+ol, *+p, *+pre, *+ul {
+    margin-top: 0px;
+}
+
+address, blockquote, dl, fieldset, figure, hr, ol, p, pre, ul {
+    margin: 0px;
+}
+
+a:focus, a:hover {
+    color: black;
+}
